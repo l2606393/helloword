@@ -10,6 +10,7 @@ namespace TestApp1
     {
         public static string Go()
         {
+            //ahahahahah
             return "Test Go";
         }
     }
