@@ -13,7 +13,7 @@ namespace TestApp1
             return a + b;
         }
         
-        static public double method(int a, int b)
+        static public double func(int a, int b)
         {
             return a * b;
         }
