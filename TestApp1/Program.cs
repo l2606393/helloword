@@ -16,6 +16,8 @@ namespace TestApp1
             Console.WriteLine("5+2= " + Sum.method(5, 2));
             Console.WriteLine("5-2= " + Sub.method(5, 2));
 
+            
+            Console.WriteLine("====END===");
             Console.ReadKey();
         }
     }
