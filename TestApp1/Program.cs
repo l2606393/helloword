@@ -12,6 +12,10 @@ namespace TestApp1
         {
             Console.WriteLine("Hello!");
             Console.WriteLine("Ahahhaha");
+
+            Console.WriteLine("5+2= " + Sum.method(5, 2));
+            Console.WriteLine("5-2= " + Sub.method(5, 2));
+
             Console.ReadKey();
         }
     }
