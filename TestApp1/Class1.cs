@@ -8,5 +8,9 @@ namespace TestApp1
 {
     class Class1
     {
+        public Class1()
+        {
+
+        }
     }
 }
